@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Creamy-Chicken-Soup
-- 👀 I’m interested in Binary Analisys
+- 👀 I’m interested in Binary Analysis
 - 🌱 I’m currently learning ExploitDev,fuzzing,redteaming
 - 💞️ I’m looking to collaborate on binary
 - 📫 How to reach me @creamychickens1
